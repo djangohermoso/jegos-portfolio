@@ -21,9 +21,11 @@ const About = () => {
             <div>
               <p>I am passionate about Building and Designing Websites. I specialize creating an eye catching design apps for clients. And also i love Game Designing using Unreal Engine.
               </p>
-              <p>For No code development, I use Webflow.</p> 
+              <p>I like to explore new technologies and try out new things</p> 
               <br />
               <p>My favorite movie is The Godfather, and my favorite music is Soul to Squeeze by RHCP </p>
+              
+             
               
             </div>
             
