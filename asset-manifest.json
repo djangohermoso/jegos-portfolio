@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/jegos-portfolio/static/css/main.22749451.css",
+    "main.js": "/jegos-portfolio/static/js/main.47c495a7.js",
+    "static/media/sample4.png": "/jegos-portfolio/static/media/sample4.03ae861e07c4661580f2.png",
+    "static/media/sample3.png": "/jegos-portfolio/static/media/sample3.76d5f2f5207d7612d143.png",
+    "static/media/sample.png": "/jegos-portfolio/static/media/sample.8d6ca2c3e11c52260c24.png",
+    "static/media/sneakers.png": "/jegos-portfolio/static/media/sneakers.bb3209d22c5874c6e568.png",
+    "static/media/sample2.png": "/jegos-portfolio/static/media/sample2.67f7c008b883661382b7.png",
+    "static/media/movie.png": "/jegos-portfolio/static/media/movie.e93aa1ecf6a30ddb32f6.png",
+    "static/media/sample1.png": "/jegos-portfolio/static/media/sample1.9cbcdffb8a46353f9c2b.png",
+    "static/media/realestate.jpg": "/jegos-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/qmart.png": "/jegos-portfolio/static/media/qmart.0bf329347afdced07a25.png",
+    "static/media/xd.png": "/jegos-portfolio/static/media/xd.285dcd09ff21b60355f8.png",
+    "static/media/jegs-logo.png": "/jegos-portfolio/static/media/jegs-logo.f2624d11929ea29fe9a9.png",
+    "static/media/workImg.jpeg": "/jegos-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/jegos-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/bootstrap.png": "/jegos-portfolio/static/media/bootstrap.3c4e1a5d3a149087b144.png",
+    "static/media/node.png": "/jegos-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/jegos-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/jegos-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/jegos-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/jegos-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/jegos-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/jegos-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/figma.png": "/jegos-portfolio/static/media/figma.44c03efbe23aad27a37b.png",
+    "index.html": "/jegos-portfolio/index.html",
+    "main.22749451.css.map": "/jegos-portfolio/static/css/main.22749451.css.map",
+    "main.47c495a7.js.map": "/jegos-portfolio/static/js/main.47c495a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22749451.css",
+    "static/js/main.47c495a7.js"
+  ]
+}
