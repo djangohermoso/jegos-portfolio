@@ -1,6 +1,6 @@
 {
   "homepage": "https://djangohermoso.github.io/jegos-portfolio",
-  "name": "my-portfolio",
+  "name": "jegos-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
