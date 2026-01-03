@@ -19,7 +19,7 @@ const About = () => {
               <p>Hi. I'm Diego, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>Passionate about technology, driven to become a SOC analyst, and a gamer at heart. And also i love Game Designing using Unreal Engine.
+              <p>Passionate about technology, driven to become a SOC analyst, and a gamer at heart. And also I love Game Designing using Unreal Engine.
               </p>
               <p>I like to explore new technologies and try out new things</p> 
               <br />
