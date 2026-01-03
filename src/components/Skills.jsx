@@ -48,15 +48,15 @@ const Skills = () => {
                     <p className=''>Github</p>
                 </div>
 
-                <div className='shadow-md shadow-[#840c161] hover:scale-110 duration-500'>
+                {/* <div className='shadow-md shadow-[#840c161] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon" />
                     <p className=''>Tailwind</p>
-                </div>
+                </div> */}
 
-                <div className='shadow-md shadow-[#840c161] hover:scale-110 duration-500'>
+                {/* <div className='shadow-md shadow-[#840c161] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Bootstrap} alt="Bootstrap icon" />
                     <p className=''>Bootstrap</p>
-                </div>
+                </div> */}
 
                 <div className='shadow-md shadow-[#840c161] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Figma} alt="Figma icon" />
