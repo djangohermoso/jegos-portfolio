@@ -19,21 +19,24 @@ const Work = () => {
 
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: 'linear-gradient(135deg, #0a192f 0%, #112240 55%, #db2777 130%)' }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            style={{ backgroundImage: 'linear-gradient(135deg, #1b2f52 0%, #24365c 45%, #be185d 120%)' }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex flex-col justify-center items-center text-center mx-auto content-div p-4'
           >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-pink-600 tracking-wider'>
-                School Management System
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='https://drive.google.com/file/d/1RNEoZWZoky3njhGNj4EV8QvYlsHU4SBQ/view?usp=sharing' target="_blank" rel="noreferrer">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Details
-                  </button>
-                </a>
-              </div>
+            <span className='text-xl font-bold text-white tracking-wider'>
+              School Management System
+            </span>
+            <span className='text-xs text-gray-200 pt-1'>
+              Laravel &middot; Livewire &middot; MariaDB &middot; Redis
+            </span>
+            <span className='text-[11px] text-gray-300 pt-1 italic'>
+              Internal production app &mdash; no public demo
+            </span>
+            <div className='opacity-0 group-hover:opacity-100 pt-4'>
+              <a href='https://drive.google.com/file/d/1RNEoZWZoky3njhGNj4EV8QvYlsHU4SBQ/view?usp=sharing' target="_blank" rel="noreferrer">
+                <button className='text-center rounded-lg px-4 py-2 bg-white text-gray-700 font-bold'>
+                  Details
+                </button>
+              </a>
             </div>
           </div>
 
