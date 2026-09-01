@@ -21,6 +21,26 @@ const Work = () => {
 
             {/* Grid Item */}
           <div
+            style={{ backgroundImage: 'linear-gradient(135deg, #0a192f 0%, #112240 55%, #db2777 130%)' }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-pink-600 tracking-wider'>
+                School Management System
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://drive.google.com/file/d/1RNEoZWZoky3njhGNj4EV8QvYlsHU4SBQ/view?usp=sharing' target="_blank" rel="noreferrer">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Details
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+            {/* Grid Item */}
+          <div
             style={{ backgroundImage: `url(${Movie})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
