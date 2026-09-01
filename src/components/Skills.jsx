@@ -4,12 +4,7 @@ import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import GitHub from '../assets/github.png';
-import Tailwind from '../assets/tailwind.png';
-import Bootstrap from '../assets/bootstrap.png'
-import Mongo from '../assets/mongo.png'
-import Node from '../assets/node.png'
 import Figma from '../assets/figma.png'
-import AdobeXD from '../assets/xd.png'
 
 
 const Skills = () => {
